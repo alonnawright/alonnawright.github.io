@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Alonna Wright
+subtitle: Ph.D. Candidate of Microbiology
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Ph.D. Candidate of Microbiology with a Designated emphasis in Biotechnology in Dr. Jonathan Eisen's lab at UC Davis. My research interests are largely using publicly available datasets to understang large scale microbial relationships using bioinformatics. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am passionate about ensuring equity in STEM, in research through [FAIR data principles](https://www.go-fair.org/fair-principles/) especially in microbiome research through the [MNDC](microbiomedata.org) and in outreach through ensuring that science is accessible to all backgrounds. 
 
-What else do you need?
+Read more about my current research projects [here.](alonnawright.github.io)
 
-### My story
+Download my full CV [here.](alonnawright.github.io)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I live in Sacramento, California with my husband and our 2 cats and 2 dogs.  In my free time I enjoy gardening, reading memoirs, and volunteering with [Cake4Kids](cake4kids.org) to bake birthday cakes for at-risk youth. 
