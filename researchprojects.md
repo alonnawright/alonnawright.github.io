@@ -5,6 +5,7 @@ subtitle: Past and present research projects
 ---
 
 ### Bacteriophage and Antimicrobial Resistance in Poultry Environments
+#### *Dissertation work, Eisen Lab, UC Davis. 2019-present*
 
 My work investigates microbial relationships through the lens of agricultural environments. AMR dissemination from agriculture is a public health and food safety issue and is exacerbated by antibiotic usage in agricultural production. Using previously generated datasets, I am interested in investigating the ecological and evolutionary relationships between bacteriophage and their bacterial hosts in the context of antimicrobial resistance (AMR). 
 
