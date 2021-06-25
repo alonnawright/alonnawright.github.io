@@ -3,6 +3,6 @@ layout: page
 title: Outreach
 ---
 
-## Undergraduate Mentoring
+### Undergraduate Mentoring
 
-## Science Communication
+### Science Communication
