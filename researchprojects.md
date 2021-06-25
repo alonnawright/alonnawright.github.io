@@ -13,6 +13,7 @@ My work investigates microbial relationships through the lens of agricultural en
   - **Is there a correlation between the molecular mechanisms encoded by bacteriophage and AMR in the environment?**
   - **What implications do these interactions have in the development of bacteriophage-based therapeutics?**
 
+
 ### Microbial Communities of Rehabilitated Soils in the Brazilian Cerrado
 
 ### Superinfection Potential of Genetically Modified Nudivirus
