@@ -85,7 +85,6 @@ pageinate_path: "blog/page:num/"
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "alonnawright.github.io"
-baseurl: ""
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -141,7 +140,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "200539918"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
