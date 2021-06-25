@@ -15,6 +15,9 @@ My work investigates microbial relationships through the lens of agricultural en
   3. **What implications do these interactions have in the development of bacteriophage-based therapeutics?**
 
 
-### Microbial Communities of Rehabilitated Soils in the Brazilian Cerrado
+## Microbial Communities of Rehabilitated Soils in the Brazilian Cerrado
+#### *Side project, UC Davis. 2018-2021*
 
-### Superinfection Potential of Genetically Modified Nudivirus
+
+
+## Superinfection Potential of Genetically Modified Nudivirus
