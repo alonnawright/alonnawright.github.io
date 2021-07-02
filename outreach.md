@@ -14,7 +14,7 @@ I have mentored multiple students through [NSURP](https://nsurp.org/) who have g
 I also have taken on students during the academic year that are enrolled in UC Davis (where I'm a Ph.D. student). I am happy to help any student regardless of major on a long-term or short term basis across many topics. I've helped guide students through the graduate school application process, aided in troubleshooting bioinformatic pipelines, and facilitated meaningful conversations and skills assessments to help students understand what career trajectory may best suit them. (If you're a student who feels like any of these may be useful to you, reach out! I'm always happy to chat.)
 
 #### Sheldon Biotechnology Academy
-For the past 3 years I have mentored a cohort of current junior and senior high school students at the Sheldon Biotechnology Academy through the conception, design, and execution of their capstone research project. This has entailed 
+For the past 3 years I have mentored a cohort of current junior and senior high school students at the Sheldon Biotechnology Academy through the conception, design, and execution of their capstone research project. This has entailed:
 - introduction of biological topics for the students to design experiments around 
 - providing materials to aid in their scientific comprehension
 - experimental design and troubleshooting
@@ -25,7 +25,7 @@ For the past 3 years I have mentored a cohort of current junior and senior high 
 
 I was raised in a low-income area as a first-generation student, so I have intentionally put a large effort into ensuring that science is accessible to all. A few of my favorite ways that I've been able to participate in SciCom efforts are: 
 - [Skype a Scientist](https://www.skypeascientist.com/)
-- Talks to local high schools on my research facilitated through the [DEB](https://deb.ucdavis.edu/)
+- Talks to local high schools on my research facilitated through the [UC Davis DEB](https://deb.ucdavis.edu/).
 - Conversations with the community about impacts of science (especially during the COVID era)
 - Participating in conversations on Twitter with scientists and non-scientists on important and neat science topics
 
