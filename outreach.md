@@ -5,7 +5,7 @@ title: Outreach
 
 ## Mentoring
 
-Working with undergraduates is one of my favorite parts of my job as a scientist. They often remind me how exciting science can be and nothing makes me happier than seeing them succeed, both during our time working together and beyond. 
+Working with students is one of my favorite parts of my job as a scientist. They often remind me how exciting science can be and nothing makes me happier than seeing them succeed, both during our time working together and beyond. 
 
 #### NSURP
 I have mentored multiple students through [NSURP](https://nsurp.org/) who have gone on to present their research at multiple conferences and use the skills they learned during our time together to secure further academic opportunities and internships.
