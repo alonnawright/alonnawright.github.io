@@ -3,7 +3,7 @@ layout: page
 title: "Hi, I'm Alonna"
 ---
 
-I'm a scientist interesting in learning how the microscopic things in our lives interact, and making science accessible to all. Take a look around to learn more about [my work](https://alonnawright.github.io/researchprojects/), [my outreach](https://alonnawright.github.io/outreach/), and [my skills](). I'd love to hear from you if you have a question or want to collaborate. Find the link to email me at the bottom of this page. 
+I'm a scientist interesting in learning how the microscopic things in our lives interact, and making science accessible to all. Take a look around to learn more about [my work](https://alonnawright.github.io/researchprojects/), [my outreach](https://alonnawright.github.io/outreach/), and [my skills](https://alonnawright.github.io/skills/). I'd love to hear from you if you have a question or want to collaborate. Find the link to email me at the bottom of this page. 
 
 
 I tweet [here](https://twitter.com/lonna_wright) often about science that I find cool and my life as a scientist (and beyond).
