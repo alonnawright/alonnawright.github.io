@@ -18,6 +18,10 @@ My work investigates microbial relationships through the lens of agricultural en
 ## Microbial Communities of Rehabilitated Soils in the Brazilian Cerrado
 #### *Side project, UC Davis. 2018-2021*
 
+This project used 16S rRNA gene analysis to understand how mining in the Brazilian Cerrado impacted bacterial communities in affected soils, and how rehabilitation through the application of rehabilitated biosolids impacted the microbial dynamics. The manuscript of this project is in preparation with anticipated submission of July 2021. 
 
 
 ## Superinfection Potential of Genetically Modified Nudivirus
+
+My undergraduate capstone research project for my degree in Agricultural and Medical Biotechnology at the University of Kentucky was performed at [Lepidext](https://www.lepidext.com/) (a derivative of work at [ParaTechs Corporation](https://paratechs.com/)) in Lexington, Kentucky. This project aimed to develop a genetically modified nudivirus as a means of biological control of the *Helicoverpa zea* corn earworm pest, which is responsible for millions of dollars in agriculural damage each year. My independent project within the overall research was to determine the interactions between the wild-type nudivirus that exists ubiquitously in nature, and the genetically modified virus we developed. My work on this project led to the 2016 Global prize at the [Alltech Young Scientist competition](https://www.alltech.com/education/alltech-young-scientist), the largest international agri-science compeition.  
+
