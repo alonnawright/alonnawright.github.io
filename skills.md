@@ -8,7 +8,7 @@ I have had the unique opportunity to be trained as a wet-lab scientist and then 
 ## Computational Skills
 
 | Skill | Proficiency |
-|----------|-----------|
+|:----------:|:-----------:|
 | R | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪|
 | Linux | ⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪|
 | Python | ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪|
@@ -18,7 +18,7 @@ I have had the unique opportunity to be trained as a wet-lab scientist and then 
 ## Bioinformatic Analyses
 
 | Analysis  | Proficiency |
-|-----------|------------|
+|:-----------:|:------------:|
 | 16S Microbial Community Analysis  | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪|
 | Metagenomic Analysis  | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪|
 
