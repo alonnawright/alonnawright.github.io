@@ -9,9 +9,9 @@ I have had the unique opportunity to be trained as a wet-lab scientist and then 
 
 | Skill | Proficiency |
 |----------|-----------|
-| R | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪ 8/10 |
-| Linux | 7/10 |
-| Python | 2/10 |
+| R | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪|
+| Linux | ⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪|
+| Python | ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪|
 
 
 
@@ -19,6 +19,6 @@ I have had the unique opportunity to be trained as a wet-lab scientist and then 
 
 | Analysis  | Proficiency |
 |-----------|------------|
-| 16S Microbial Community Analysis  | 8/10 |
-| Metagenomic Analysis  | 8/10|
+| 16S Microbial Community Analysis  | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪|
+| Metagenomic Analysis  | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪|
 
