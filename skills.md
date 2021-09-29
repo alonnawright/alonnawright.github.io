@@ -9,7 +9,7 @@ I have had the unique opportunity to be trained as a wet-lab scientist and then 
 
 | Skill | Proficiency |
 |----------|-----------|
-| R | ["filledcircle_favicon.ico"] 8/10 |
+| R | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪ 8/10 |
 | Linux | 7/10 |
 | Python | 2/10 |
 
