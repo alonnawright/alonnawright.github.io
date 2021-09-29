@@ -11,7 +11,7 @@ I have had the unique opportunity to be trained as a wet-lab scientist and then 
 |----------|-----------|
 | R | ⚫⚫⚫⚫⚫⚫⚫⚫⚪⚪|
 | Linux | ⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪|
-| Python | ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪|
+| Python | ⚫⚫⚪⚪⚪⚪⚪⚪⚪⚪|
 
 
 
