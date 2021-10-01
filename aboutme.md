@@ -10,4 +10,6 @@ I am passionate about ensuring equity in STEM, in research through [FAIR data pr
 
 Download my full CV [here.](https://drive.google.com/file/d/12Bqh6yQV-DefHjuX6xZQh5m-M5rMROfB/view?usp=sharing)
 
+![](/assets/img/DSC09270.jpg)
+
 I live in Sacramento, California with my husband and our 2 cats and 2 dogs.  In my free time I enjoy gardening, reading memoirs, and volunteering with [Cake4Kids](https://www.cake4kids.org/) to bake birthday cakes for at-risk youth. 
