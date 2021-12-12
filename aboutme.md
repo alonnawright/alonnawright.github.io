@@ -12,6 +12,6 @@ You can view my resume [here.](https://docs.google.com/document/d/e/2PACX-1vRxvS
 
 I live in Sacramento, California with my husband and our 2 cats and 2 dogs.  In my free time I enjoy tending to my culinary garden, reading memoirs, and volunteering with [Cake4Kids](https://www.cake4kids.org/) to bake birthday cakes for at-risk youth. 
 
-![](/assets/img/DSC09270.jpg)
+![](/assets/img/1D05B7A6-3C95-4D15-80C7-31162A87156D.jpeg)
 
 
