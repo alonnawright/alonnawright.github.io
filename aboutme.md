@@ -14,4 +14,9 @@ I live in Sacramento, California with my husband and our 2 cats and 2 dogs.  In 
 
 ![](/assets/img/1D05B7A6-3C95-4D15-80C7-31162A87156D.jpeg)
 
+I tweet [here](https://twitter.com/lonna_wright) often about science that I find cool and my life as a scientist (and beyond).
+
+
+<a class="twitter-timeline" data-height="1000" href="https://twitter.com/lonna_wright?ref_src=twsrc%5Etfw">Tweets by lonna_wright</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
