@@ -8,7 +8,7 @@ I am a Ph.D. Candidate of Microbiology with a [Designated Emphasis in Biotechnol
 
 I am passionate about ensuring equity in STEM. I am an advocate for making data [FAIR](https://www.go-fair.org/fair-principles/) through my role as the Early Career Representative on the Scientific Advisory Board of the [NMDC](https://microbiomedata.org/). I also frequently volunteer my time to outreach events and mentoring programs that promote diversity, equity, and inclusion in STEM. Read more about my outreach [here](https://alonnawright.github.io/outreach/).
 
-You can download my full CV [here.](https://docs.google.com/document/d/e/2PACX-1vRxvSILUPYBa-NpoTmP6aVLkwnITqU_R2mpFqusCO-U2YZMilG5sTxZYLXrYFs7VJ0EivaQpuZUOy7I/pub).
+You can view my resume [here.](https://docs.google.com/document/d/e/2PACX-1vRxvSILUPYBa-NpoTmP6aVLkwnITqU_R2mpFqusCO-U2YZMilG5sTxZYLXrYFs7VJ0EivaQpuZUOy7I/pub)
 
 I live in Sacramento, California with my husband and our 2 cats and 2 dogs.  In my free time I enjoy tending to my culinary garden, reading memoirs, and volunteering with [Cake4Kids](https://www.cake4kids.org/) to bake birthday cakes for at-risk youth. 
 
