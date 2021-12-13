@@ -17,11 +17,11 @@ My work investigates microbial relationships through the lens of agricultural en
 ## Characterization of Environmental Resistance Genes in Archival Bacterial Isolates from NASA JPL
 #### *Dissertation work, Eisen Lab, UC Davis. 2021-present*
 Bacterial isolates dating back to the 1970s were collected from spacecraft assembled in sterile conditions. These isolates were sequenced, and I am analyzing these whole-genome sequences to answer the following questions: 
-  1. **What genes are encoded in these isolates that may have contributed to their ability to survive sterilization practices? 
-  2. **What biological processes do these resistance genes likely impact? 
-  3. **Do all isolates share similar profiles of these encoded resistance genes? 
-  4. **Do the resistance gene profiles change over time within taxonomic groups? 
-  5. **Do the resistance gene profiles differ significantly between taxa? 
+  1. **What genes are encoded in these isolates that may have contributed to their ability to survive sterilization practices?** 
+  2. **What biological processes do these resistance genes likely impact? **
+  3. **Do all isolates share similar profiles of these encoded resistance genes? **
+  4. **Do the resistance gene profiles change over time within taxonomic groups? **
+  5. **Do the resistance gene profiles differ significantly between taxa? **
 
 ## Genomic assembly and characterization of attenuated Streptococcus iniae 
 #### *Collaborative project, UC Davis. 2021.*
