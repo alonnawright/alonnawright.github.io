@@ -15,7 +15,7 @@ My work investigates microbial relationships through the lens of agricultural en
   3. **What implications do these interactions have in the development of bacteriophage-based therapeutics?**
 
 ## Characterization of Environmental Resistance Genes in Archival Bacterial Isolates from NASA JPL
-#### *Dissertation work, Eisen Lab, UC Davis. 2019-present*
+#### *Dissertation work, Eisen Lab, UC Davis. 2021-present*
 Bacterial isolates dating back to the 1970s were collected from spacecraft assembled in sterile conditions. These isolates were sequenced, and I am analyzing these whole-genome sequences to answer the following questions: 
   1. **What genes are encoded in these isolates that may have contributed to their ability to survive sterilization practices? 
   2. **What biological processes do these resistance genes likely impact? 
