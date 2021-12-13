@@ -32,20 +32,20 @@ Hybrid assembly and refinement using Oxford Nanopore and Illumina sequencing to 
 Advised on bioinformatic techniques and experimental design for quantification of Salmonella strains from retail poultry products.
 
 ## Amplicon analysis of fungal communities
-####  *Bioinformatic consulting, 2020.*
+####  *Bioinformatic consulting, 2020*
 Advised and implemented bioinformatic pipeline reporting predicted functional and diversity metrics of previously generated ITS amplicon sequencing.
 
 ## Microbial Communities of Rehabilitated Soils in the Brazilian Cerrado
-#### *Side project, UC Davis. 2018-2021*
+#### *Side project, UC Davis, 2018-2021*
 
 16S rRNA gene analysis to understand how mining in the Brazilian Cerrado impacted bacterial communities in affected soils, and how rehabilitation through the application of rehabilitated biosolids impacted the microbial dynamics. The manuscript of this project is in preparation with anticipated submission of July 2021. 
 
-## Quanitification of Microbially-Derived Biotech Product Application on Ruminal Functional and Quality Measurements
-#### *Alltech, 2017.
+## Quanitification of Microbially-Derived Biotech Product Application Impact on Ruminal Functional and Quality Measurements
+#### *Alltech, 2017*
 - Determined extent of biotech product application’s association with gene expression changes associated with tenderness, flavor, and juiciness in Angus steers. 
 - Established baseline range of microbial degradation of volatile fatty acids in ruminal fluid of lactating dairy cattle.
 
 ## Superinfection Potential of Genetically Modified Nudivirus
-#### *Paratechs, Lepidext. 2014 - 2017
+#### *Paratechs and Lepidext, 2014 - 2017*
 My undergraduate capstone research project for my degree in [Agricultural and Medical Biotechnology at the University of Kentucky](https://www.uky.edu/academics/bachelors/agricultural-and-medical-biotechnology) was performed at [Lepidext](https://www.lepidext.com/) (a derivative of work at [ParaTechs Corporation](https://paratechs.com/)) in Lexington, Kentucky. This project aimed to develop a genetically modified nudivirus as a means of biological control of the *Helicoverpa zea* corn earworm pest, which is responsible for millions of dollars in agriculural damage each year. My independent project within the overall research was to determine the interactions between the wild-type nudivirus that exists ubiquitously in nature, and the genetically modified virus we developed. My work on this project led to the 2016 Global prize at the [Alltech Young Scientist competition](https://www.alltech.com/education/alltech-young-scientist), the largest international agri-science compeition.  
 
