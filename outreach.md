@@ -17,6 +17,7 @@ Some of the topics I have mentored students on in the past include:
   - Combatting imposter syndrome.
   - Personal values and skills inventory.
   - Career options in STEM.
+
 If you're a student who feels like any of these may be useful to you, reach out! I'm always happy to chat.
 
 #### NSURP
