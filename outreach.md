@@ -5,7 +5,9 @@ title: Outreach
 
 ## Mentoring
 
-Working with students is one of my favorite parts of my job as a scientist. They often remind me how exciting science can be and nothing makes me happier than seeing them succeed, both during our time working together and beyond. Some topics I have mentored students on in the past include: 
+Working with students is one of my favorite parts of my job as a scientist. They often remind me how exciting science can be and nothing makes me happier than seeing them succeed, both during our time working together and beyond. 
+
+Some of the topics I have mentored students on in the past include: 
   - Defining and troubleshooting bioinformatic pipelines.
   - Graduate school application process.
   - Finding rotation and dissertation laboratories.
