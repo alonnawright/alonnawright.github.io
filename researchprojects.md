@@ -14,14 +14,38 @@ My work investigates microbial relationships through the lens of agricultural en
   2. **Is there a correlation between the molecular mechanisms encoded by bacteriophage and AMR in the environment?**
   3. **What implications do these interactions have in the development of bacteriophage-based therapeutics?**
 
+## Characterization of Environmental Resistance Genes in Archival Bacterial Isolates from NASA JPL
+#### *Dissertation work, Eisen Lab, UC Davis. 2019-present*
+Bacterial isolates dating back to the 1970s were collected from spacecraft assembled in sterile conditions. These isolates were sequenced, and I am analyzing these whole-genome sequences to answer the following questions: 
+  1. **What genes are encoded in these isolates that may have contributed to their ability to survive sterilization practices? 
+  2. **What biological processes do these resistance genes likely impact? 
+  3. **Do all isolates share similar profiles of these encoded resistance genes? 
+  4. **Do the resistance gene profiles change over time within taxonomic groups? 
+  5. **Do the resistance gene profiles differ significantly between taxa? 
+
+## Genomic assembly and characterization of attenuated Streptococcus iniae 
+#### *Collaborative project, UC Davis. 2021.*
+Hybrid assembly and refinement using Oxford Nanopore and Illumina sequencing to resolve assembly of attenuated bacterial candidate for aquaculture vaccine.
+
+## *Salmonella* strain-level recovery and identification 
+#### *Bioinformatic consulting, 2020 - present*
+Advised on bioinformatic techniques and experimental design for quantification of Salmonella strains from retail poultry products.
+
+## Amplicon analysis of fungal communities
+####  *Bioinformatic consulting, 2020.*
+Advised and implemented bioinformatic pipeline reporting predicted functional and diversity metrics of previously generated ITS amplicon sequencing.
 
 ## Microbial Communities of Rehabilitated Soils in the Brazilian Cerrado
 #### *Side project, UC Davis. 2018-2021*
 
-This project used 16S rRNA gene analysis to understand how mining in the Brazilian Cerrado impacted bacterial communities in affected soils, and how rehabilitation through the application of rehabilitated biosolids impacted the microbial dynamics. The manuscript of this project is in preparation with anticipated submission of July 2021. 
+16S rRNA gene analysis to understand how mining in the Brazilian Cerrado impacted bacterial communities in affected soils, and how rehabilitation through the application of rehabilitated biosolids impacted the microbial dynamics. The manuscript of this project is in preparation with anticipated submission of July 2021. 
 
+## Quanitification of Microbially-Derived Biotech Product Application on Ruminal Functional and Quality Measurements
+#### *Alltech, 2017.
+- Determined extent of biotech product application’s association with gene expression changes associated with tenderness, flavor, and juiciness in Angus steers. 
+- Established baseline range of microbial degradation of volatile fatty acids in ruminal fluid of lactating dairy cattle.
 
 ## Superinfection Potential of Genetically Modified Nudivirus
-
+#### *Paratechs, Lepidext. 2014 - 2017
 My undergraduate capstone research project for my degree in [Agricultural and Medical Biotechnology at the University of Kentucky](https://www.uky.edu/academics/bachelors/agricultural-and-medical-biotechnology) was performed at [Lepidext](https://www.lepidext.com/) (a derivative of work at [ParaTechs Corporation](https://paratechs.com/)) in Lexington, Kentucky. This project aimed to develop a genetically modified nudivirus as a means of biological control of the *Helicoverpa zea* corn earworm pest, which is responsible for millions of dollars in agriculural damage each year. My independent project within the overall research was to determine the interactions between the wild-type nudivirus that exists ubiquitously in nature, and the genetically modified virus we developed. My work on this project led to the 2016 Global prize at the [Alltech Young Scientist competition](https://www.alltech.com/education/alltech-young-scientist), the largest international agri-science compeition.  
 
