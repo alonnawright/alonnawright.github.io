@@ -23,7 +23,7 @@ Bacterial isolates dating back to the 1970s were collected from spacecraft assem
   4. **Do the resistance gene profiles change over time within taxonomic groups?**
   5. **Do the resistance gene profiles differ significantly between taxa?**
 
-## Genomic assembly and characterization of attenuated Streptococcus iniae 
+## Genomic assembly and characterization of attenuated *Streptococcus iniae*
 #### *Collaborative project, UC Davis. 2021.*
 Hybrid assembly and refinement using Oxford Nanopore and Illumina sequencing to resolve assembly of attenuated bacterial candidate for aquaculture vaccine.
 
