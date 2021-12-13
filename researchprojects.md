@@ -5,7 +5,7 @@ subtitle: Past and present research projects
 ---
 
 ## Bacteriophage and Antimicrobial Resistance in Poultry Environments
-#### *Dissertation work, Eisen Lab, UC Davis. 2019-present*
+#### *Dissertation work, Eisen Lab, UC Davis, 2019-present*
 
 My work investigates microbial relationships through the lens of agricultural environments. AMR dissemination from agriculture is a public health and food safety issue and is exacerbated by antibiotic usage in agricultural production. Using previously generated datasets, I am interested in investigating the ecological and evolutionary relationships between bacteriophage and their bacterial hosts in the context of antimicrobial resistance (AMR). 
 
@@ -15,7 +15,7 @@ My work investigates microbial relationships through the lens of agricultural en
   3. **What implications do these interactions have in the development of bacteriophage-based therapeutics?**
 
 ## Characterization of Environmental Resistance Genes in Archival Bacterial Isolates from NASA JPL
-#### *Dissertation work, Eisen Lab, UC Davis. 2021-present*
+#### *Dissertation work, Eisen Lab, UC Davis, 2021-present*
 Bacterial isolates dating back to the 1970s were collected from spacecraft assembled in sterile conditions. These isolates were sequenced, and I am analyzing these whole-genome sequences to answer the following questions: 
   1. **What genes are encoded in these isolates that may have contributed to their ability to survive sterilization practices?** 
   2. **What biological processes do these resistance genes likely impact?**
@@ -24,7 +24,7 @@ Bacterial isolates dating back to the 1970s were collected from spacecraft assem
   5. **Do the resistance gene profiles differ significantly between taxa?**
 
 ## Genomic assembly and characterization of attenuated *Streptococcus iniae*
-#### *Collaborative project, UC Davis. 2021.*
+#### *Collaborative project, UC Davis, 2021*
 Hybrid assembly and refinement using Oxford Nanopore and Illumina sequencing to resolve assembly of attenuated bacterial candidate for aquaculture vaccine.
 
 ## *Salmonella* strain-level recovery and identification 
