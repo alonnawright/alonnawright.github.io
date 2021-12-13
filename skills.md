@@ -3,8 +3,6 @@ layout: page
 title: Skills
 ---
 
-I have had the unique opportunity to be trained as a wet-lab scientist who transited to an entirely bioinformatics Ph.D. dissertation project and has been trained in evaluating science from a business perspective. 
-
 ## Computational and Bioinformatic Skills
 - Proficient in R, Unix, and Python.
 - Metagenomic, whole genome, and amplicon microbial sequencing analysis.
