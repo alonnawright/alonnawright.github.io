@@ -6,7 +6,9 @@ subtitle: Ph.D. Candidate of Microbiology
 
 I am a Ph.D. Candidate of Microbiology with a [Designated Emphasis in Biotechnology](https://biotech.ucdavis.edu/DEB_Program) in [Dr. Jonathan Eisen's lab](https://phylogenomics.me/) and a [Business Development Fellow](https://innovate.ucdavis.edu/business-development-fellowship-program) at UC Davis. My research interests are centered around **using bioinformatics to investigate ecological relationships of microbes using previously generated datasets**. 
 
-Take a look around to learn more about [my work](https://alonnawright.github.io/researchprojects/), [my outreach](https://alonnawright.github.io/outreach/), and [my skills](https://alonnawright.github.io/skills/). You can view my resume [here](https://drive.google.com/file/d/1Lk2MkSooWzcVoQslizyOHKWQc_xjs6qx/view?usp=sharing). I'd love to hear from you if you have a question or want to collaborate. Find the link to email me at the bottom of this page. 
+Take a look around to learn more about [my work](https://alonnawright.github.io/researchprojects/), [my outreach](https://alonnawright.github.io/outreach/), and [my skills](https://alonnawright.github.io/skills/). You can view my resume [here](https://drive.google.com/file/d/1Lk2MkSooWzcVoQslizyOHKWQc_xjs6qx/view?usp=sharing). 
+
+I'd love to hear from you if you have a question, want to chat, or have an idea for a collaboration. (Click here to send me an email!)[mailto:adwright@ucdavis.edu?subject=Contact%20Request%20from%20alonnawright.github.io]
 
 I live in Sacramento, California with my husband and our 2 cats and 2 dogs.  In my free time I enjoy tending to my culinary garden, reading memoirs, and volunteering with [Cake4Kids](https://www.cake4kids.org/) to bake birthday cakes for at-risk youth. 
 
