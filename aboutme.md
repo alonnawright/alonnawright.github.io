@@ -10,7 +10,7 @@ Take a look around to learn more about [my work](https://alonnawright.github.io/
 
 I live in Sacramento, California with my mini daschund, Nellie, and 2 cats, Clark and Barry.  In my free time I enjoy participating in community events, tending to my culinary garden, reading memoirs, making art, and volunteering with [Cake4Kids](https://www.cake4kids.org/) to bake birthday cakes for at-risk youth. 
 
-![](/assets/img/1D05B7A6-3C95-4D15-80C7-31162A87156D.jpeg)
+![](/assets/img/74B06187_Original.jpeg)
 
 
 <a class="twitter-timeline" data-height="1000" href="https://twitter.com/lonna_wright?ref_src=twsrc%5Etfw">Tweets by lonna_wright</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
