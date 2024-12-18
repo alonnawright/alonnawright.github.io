@@ -13,6 +13,3 @@ I live in Sacramento, California with my mini dachshund, Nellie, and 2 cats, Cla
 ![](/assets/img/74B06187_Original.jpeg)
 
 
-<a class="twitter-timeline" data-height="1000" href="https://twitter.com/lonna_wright?ref_src=twsrc%5Etfw">Tweets by lonna_wright</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
