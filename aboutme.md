@@ -8,7 +8,7 @@ I hold a Ph.D. in Microbiology with a [Designated Emphasis in Biotechnology](htt
 
 Take a look around to learn more about [my work](https://alonnawright.github.io/researchprojects/), [my outreach](https://alonnawright.github.io/outreach/), and [my skills](https://alonnawright.github.io/skills/). You can view my resume [here.](https://drive.google.com/file/d/1YDjtusRzyZuxGtNAaEWBpc9jZmv9XNX9/view?usp=drivesdk). I'd love to hear from you if you have a question or want to collaborate. Find the link to email me at the bottom of this page. 
 
-I live in Sacramento, California with my mini daschund, Nellie, and 2 cats, Clark and Barry.  In my free time I enjoy participating in community events, tending to my culinary garden, reading memoirs, making art, and volunteering with [Cake4Kids](https://www.cake4kids.org/) to bake birthday cakes for at-risk youth. 
+I live in Sacramento, California with my mini dachshund, Nellie, and 2 cats, Clark and Barry.  In my free time I enjoy participating in community events, tending to my culinary garden, reading memoirs, making art, and volunteering with [Cake4Kids](https://www.cake4kids.org/) to bake birthday cakes for at-risk youth. 
 
 ![](/assets/img/74B06187_Original.jpeg)
 
