@@ -3,9 +3,22 @@ layout: page
 title: Research Projects
 subtitle: Past and present research projects
 ---
+## Data Engineering and Multiomic Integration at Novonesis
+#### *Postdoctoral Scientist, Novonesis, 2022–Present*
+At Novonesis, I led efforts to optimize data flow pipelines, integrate multiomic datasets, and standardize workflows for next-generation sequencing (NGS) data analysis, driving innovation and operational efficiency.
+
+#### Key contributions:
+
+- **Workflow Automation**: Refactored pipeline code to adopt an object-oriented programming approach, replacing legacy data table manipulations for greater modularity and scalability.
+- **Streamlined Processes**: Consolidated six Jupyter Notebooks into a version-controlled Python workflow, significantly enhancing reproducibility and reducing workflow fragmentation.
+- **Pain Point Elimination**: Automated previously manual data entry processes, alleviating key bottlenecks for the sequencing team and saving over 600 hours annually.
+- **Data Integration and Insights**: Established a SQL-based matedata capture system integrated with Benchling, enabling longitudinal tracking of sequencing sample data and providing capabilities for trend analysis and historical comparisons that were previously unavailable.
+- **Multiomic Data Integration**: Designed and implemented workflows to integrate genomics, transcriptomics, proteomics, and metabolomics datasets, delivering actionable systems-level insights for downstream analyses.
+- **SOP Development**: Authored standardized operating procedures (SOPs) for proteomics, transcriptomics, and metabolomics workflows to ensure consistency, scalability, and adherence to industry best practices.
+
 
 ## Bacteriophage and Antimicrobial Resistance in Poultry Environments
-#### *Dissertation work, Eisen Lab, UC Davis, 2019-present*
+#### *Dissertation work, Eisen Lab, UC Davis, 2019-2022*
 
 My work investigates microbial relationships through the lens of agricultural environments. AMR dissemination from agriculture is a public health and food safety issue and is exacerbated by antibiotic usage in agricultural production. Using previously generated datasets, I am interested in investigating the ecological and evolutionary relationships between bacteriophage and their bacterial hosts in the context of antimicrobial resistance (AMR). 
 
