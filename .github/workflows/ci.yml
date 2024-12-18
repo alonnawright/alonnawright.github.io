@@ -8,22 +8,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-
-      - name: Update RubyGems
-        run: gem update --system
-
-      - name: Install dependencies
-        run: bundle install
-
-      - uses: actions/checkout@v2
-      - name: Build the site in the jekyll/builder container
+      - name: Build site using Jekyll Docker container
         run: |
-          export JEKYLL_VERSION=3.8
-          docker run \
-          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+          docker pull jekyll/builder:3.8
+          docker run --rm \
+            -v $(pwd):/srv/jekyll \
+            -v $(pwd)/_site:/srv/jekyll/_site \
+            -w /srv/jekyll \
+            jekyll/builder:3.8 bash -c "
+              gem update --system &&
+              bundle install &&
+              jekyll build
+            "
