@@ -2,21 +2,22 @@ name: Beautiful Jekyll CI
 on: [push, pull_request]
 jobs:
   build:
-    name: Build Jekyll
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Build site using Jekyll Docker container
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install Jekyll dependencies
         run: |
-          docker pull jekyll/builder:3.8
-          docker run --rm \
-            -v $(pwd):/srv/jekyll \
-            -v $(pwd)/_site:/srv/jekyll/_site \
-            -w /srv/jekyll \
-            jekyll/builder:3.8 bash -c "
-              gem update --system &&
-              bundle install &&
-              jekyll build
-            "
+          gem install bundler jekyll
+          bundle install
+
+      - name: Build Jekyll site
+        run: jekyll build
+
