@@ -8,6 +8,8 @@ title: Outreach
 Working with students is one of my favorite parts of my job as a scientist. They often remind me how exciting science can be and nothing makes me happier than seeing them succeed, both during our time working together and beyond. 
 
 Some of the topics I have mentored students on in the past include: 
+
+  - Navigating neurodivergence as a scientist.
   - Defining and troubleshooting bioinformatic pipelines.
   - Graduate school application process.
   - Finding rotation and dissertation laboratories.
@@ -20,8 +22,11 @@ Some of the topics I have mentored students on in the past include:
 
 If you're a student who feels like any of these may be useful to you, reach out! I'm always happy to chat.
 
+#### Novonesis Internships
+I've contributed to mentorship efforts and facilitation for the past 3 summers for students interning at the Novonesis site in Davis, California. This has ranged from formal mentoship on projects to informal guidance on career explorations as an industry scientist, and has been one of the most rewarding aspects of my job since transitioning to industry.
+
 #### NSURP
-I have mentored [NSURP](https://nsurp.org/) students every summer since the program began in 2020. These students have gone on to present their research at multiple conferences and use the skills they learned during our time together to secure further academic opportunities and internships.
+I have mentored [NSURP](https://nsurp.org/) students previously in summers 2020, 2021, and 2022. These students have gone on to present their research at multiple conferences and use the skills they learned during our time together to secure further academic opportunities and internships.
 
 #### UC Davis
 - I have completed a certificate course in Mentorship from UC Davis Graduate Pathways. 
