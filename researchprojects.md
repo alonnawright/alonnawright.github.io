@@ -4,7 +4,7 @@ title: Research Projects
 subtitle: Past and present research projects
 ---
 ## Data Engineering and Multiomic Integration at Novonesis
-#### *Postdoctoral Scientist, Novonesis, 2022–Present*
+#### *Postdoctoral Scientist - Bioinformatics (Data Engineer I), Novonesis, 2022–Present*
 At Novonesis, I led efforts to optimize data flow pipelines, integrate multiomic datasets, and standardize workflows for next-generation sequencing (NGS) data analysis, driving innovation and operational efficiency.
 
 #### Key contributions:
