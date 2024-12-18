@@ -18,7 +18,7 @@ author: Alonna Wright
 # --- List of links in the navigation bar --- #
 
 navbar-links:
- # About Me: "aboutme"
+  About Me: "aboutme"
   Skills: "skills"
   Research Projects: "researchprojects"
   Outreach: "outreach"
