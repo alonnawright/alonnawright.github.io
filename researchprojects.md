@@ -38,7 +38,7 @@ This project analyzed whole-genome sequences from archival bacterial isolates co
 - Identified resistance genes that contribute to bacterial survival under sterilization practices, including efflux pumps and stress response genes.  
 - Observed shifts in resistance gene profiles over time within taxonomic groups, suggesting adaptive evolution to persistent selective pressures in sterile environments.  
 - Found significant differences in resistance gene profiles between bacterial taxa, reflecting ecological specialization.  
-- Provided insights into biological processes impacted by these resistance genes, including DNA repair, membrane integrity, and oxidative stress responses, advancing understanding of microbial resilience in extreme environments.  
+- Provided insights into biological processes impacted by these resistance genes, including DNA repair, membrane integrity, and oxidative stress responses, advancing understanding of microbial resilience in extreme environments.
 
 ---
 
