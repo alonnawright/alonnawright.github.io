@@ -19,7 +19,7 @@ At Novonesis, I led efforts to optimize data flow pipelines, integrate multiomic
 ---
 
 ## **Bacteriophage and Antimicrobial Resistance in Poultry Environments**  
-#### *Dissertation Work, Eisen Lab, UC Davis, 2019–2023*  
+#### *Dissertation Work, Eisen Lab, UC Davis, 2019–2022*  
 This research investigated microbial relationships in agricultural environments, focusing on the dissemination of antimicrobial resistance (AMR) and the ecological roles of bacteriophage and bacteria.  
 
 #### Key findings and contributions:  
