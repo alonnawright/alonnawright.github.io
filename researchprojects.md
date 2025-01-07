@@ -31,7 +31,7 @@ This research investigated microbial relationships in agricultural environments,
 ---
 
 ### **Characterization of Environmental Resistance Genes in NASA JPL Bacterial Isolates**  
-#### *[Dissertation Work](https://escholarship.org/uc/item/6j3631h8), Eisen Lab, UC Davis, 2021–2023*  
+#### *[Dissertation Work](https://escholarship.org/uc/item/6j3631h8), Eisen Lab, UC Davis, 2021–2022*  
 This project analyzed whole-genome sequences from archival bacterial isolates collected from spacecraft assembly facilities to understand microbial survival in sterile, extreme environments.  
 
 #### Key findings and contributions:  
