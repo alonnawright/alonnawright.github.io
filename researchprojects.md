@@ -12,7 +12,7 @@ At Novonesis, I led efforts to optimize data flow pipelines, integrate multiomic
 - **Workflow Automation**: Refactored pipeline code to adopt an object-oriented programming approach, replacing legacy data table manipulations for greater modularity and scalability.
 - **Streamlined Processes**: Consolidated six Jupyter Notebooks into a version-controlled Python workflow, significantly enhancing reproducibility and reducing workflow fragmentation.
 - **Pain Point Elimination**: Automated previously manual data entry processes, alleviating key bottlenecks for the sequencing team and saving over 600 hours annually.
-- **Data Integration and Insights**: Established a SQL-based matedata capture system integrated with Benchling, enabling longitudinal tracking of sequencing sample data and providing capabilities for trend analysis and historical comparisons that were previously unavailable.
+- **Data Integration and Insights**: Established a SQL-based metadata capture system integrated with Benchling, enabling longitudinal tracking of sequencing sample data and providing capabilities for trend analysis and historical comparisons that were previously unavailable.
 - **Multiomic Data Integration**: Designed and implemented workflows to integrate genomics, transcriptomics, proteomics, and metabolomics datasets, delivering actionable systems-level insights for downstream analyses.
 - **SOP Development**: Authored standardized operating procedures (SOPs) for proteomics, transcriptomics, and metabolomics workflows to ensure consistency, scalability, and adherence to industry best practices.
 
